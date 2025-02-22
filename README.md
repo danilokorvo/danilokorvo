@@ -1,3 +1,4 @@
-# Danilo Nunes Fernandes - Danilo Korvo 
 
-<img src="ae61c318-7312-4230-bb0b-341aeb1a48f2-removebg-preview.png" whidth="150px">
+<img src="https://github.com/user-attachments/assets/001e17bd-e3a9-41fe-a2fd-3b14e622fb6c" whidth="100px" height="200px" align="right"> 
+ 
+# Danilo Nunes Fernandes - Korvo 
