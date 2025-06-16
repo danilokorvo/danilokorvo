@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/user-attachments/assets/001e17bd-e3a9-41fe-a2fd-3b14e622fb6c" width="1000px" height="300px">
+<img src="danilokorvo/danilokorvo/img/ae61c318-7312-4230-bb0b-341aeb1a48f2-removebg-preview.png" width="1000px" height="300px">
 
  
 # Danilo Nunes Fernandes - Korvo
