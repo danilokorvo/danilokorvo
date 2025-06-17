@@ -5,6 +5,5 @@
  
 # Danilo Nunes Fernandes - K0rv0 #
 <div style="display: flex; align-items: center;">
-  <img src="img/instagram.png" style="margin-right: 1px;" alt="Ícone do Instagram" width="20" height="20">
-  @danilokorvo
+  <img src="img/instagram.png" style="margin-right: 1px;" alt="Ícone do Instagram" width="20" height="20">@danilokorvo</img>
 </div>
